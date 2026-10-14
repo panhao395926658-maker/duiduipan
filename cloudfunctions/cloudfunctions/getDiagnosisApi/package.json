@@ -1,0 +1,10 @@
+{
+    "name": "getDiagnosis",
+    "version": "1.0.0",
+    "description": "对对盘 DeepSeek AI 诊断生成函数",
+    "main": "index.js",
+    "dependencies": {
+      "wx-server-sdk": "latest",
+      "axios": "^1.6.0"
+    }
+  }
